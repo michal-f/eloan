@@ -1,0 +1,27 @@
+.tp-caption.big_extraheavy_60 {
+font-size:82px;
+line-height:60px;
+font-weight:900;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:rgb(8, 13, 16) 1px 2px 7px;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.extrabold_littlesub_open {
+font-size:14px;
+line-height:22px;
+font-weight:900;
+font-family:"Open Sans";
+color:#f8f8f8;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+

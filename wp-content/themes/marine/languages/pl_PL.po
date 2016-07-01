@@ -1,0 +1,1058 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: marine\n"
+"POT-Creation-Date: 2014-08-04 11:51+0100\n"
+"PO-Revision-Date: 2015-05-07 23:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Medialayout\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"Language: pl\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/"
+"themes/marine\n"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/sidebar-footer-2.php:18
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:28
+msgid "Contact Form"
+msgstr "Formularz kontaktowy"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-full-width.php:28
+msgid "Our Work"
+msgstr "Nasza Działalność"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-full-width.php:31
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-4-col.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-3-col.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-faq.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-1-col.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-2-col.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/featured_projects_2.php:104
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/featured_projects_3.php:121
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/archive-product.php:52
+msgid "All"
+msgstr "Wszystko"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:24
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:60
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:28
+msgid "Comments"
+msgstr "Komentarze"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:27
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:42
+msgid "Comment navigation"
+msgstr "Nawigacja komentarzy"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:28
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:29
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:49
+msgid "Comments are closed."
+msgstr "Komentarze sa wyłączone"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:53
+msgid "Leave A Reply Form"
+msgstr "Zostaw odpowiedź"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:59
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:32
+msgid "Name*"
+msgstr "Imię*"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:66
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:33
+msgid "E-mail*"
+msgstr "E-mail"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/comments.php:72
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:34
+msgid "Message"
+msgstr "Treść wiadomości"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-list.php:71
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-alternate.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-grid.php:66
+msgid "Loading posts"
+msgstr "Pobieram artkuły"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-list.php:71
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-4-col.php:109
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/index.php:31
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-timeline.php:143
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-alternate.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-3-col.php:113
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-grid.php:66
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-1-col.php:130
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-2-col.php:108
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/blogtimeline.php:25
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/pagination.php:23
+msgid "Load More"
+msgstr "Czytaj więcej…"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-4-col.php:35
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-3-col.php:35
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-1-col.php:35
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-2-col.php:35
+msgid "Sort Portfolio"
+msgstr "Sortuj Portfolio"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-4-col.php:109
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/index.php:31
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-3-col.php:113
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-1-col.php:130
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-2-col.php:108
+msgid "Loading..."
+msgstr "Wczytywanie…"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-blog-timeline.php:112
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-date.php:19
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/Comment_Walker.class.php:52
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/blogtimeline.php:184
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/recent_news_big.php:47
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/recent_news_big.php:64
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/recent_posts.php:75
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-quote.php:59
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:72
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-gallery.php:79
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-video.php:74
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content.php:65
+msgid "By"
+msgstr "Autor:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/404.php:21
+msgid "404"
+msgstr "404"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/404.php:22
+msgid "Oops, This page couldn't be found!"
+msgstr "Oops! Strona nie została znaleziona."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/404.php:23
+msgid "Go back home"
+msgstr "Cofnij"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/404.php:42
+msgid "Search Our Website"
+msgstr "Szukaj na stronie"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/404.php:44
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+"Nie możesz znaleźć to, czego potrzebujesz? Poświęć chwilę i poszukaj niżej"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:816
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:34
+msgid "Send Message"
+msgstr "Wyślij Wiadomość"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:818
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-contact-form-ext.php:35
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/form.php:25
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:847
+msgid "is required"
+msgstr "jest wymagane"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:852
+msgid "Email is invalid"
+msgstr "Adres e-mail wydaje się nieprawidłowy."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:868
+msgid "Message Sent"
+msgstr "Wiadomość została wysłana pomyślnie!"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:871
+msgid "An Error occured."
+msgstr "Wystąpił błąd."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:921
+msgid "Please fill all required fields."
+msgstr "Proszę wypełnić wszystkie wymagane pola."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:926
+msgid "Please check your email."
+msgstr "Sprawdź swoją pocztę e-mail."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:934
+msgid "Email sent. Thank you for contacting us"
+msgstr "Wiadomość wysłana! Dziękujemy za skontaktowanie się z nami!"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:936
+msgid "Server error. Pease try again later."
+msgstr "Błąd serwera. Spróbuj ponownie później"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:1138
+msgid "Now:"
+msgstr "teraz:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/functions.php:1192
+msgid "Slider"
+msgstr "Slider"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/no-results.php:12
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Przepraszamy, ale nie znaleziono żadnych elementów w wybranym archiwum. "
+"Spróbuj skorzystać z wyszukiwarki."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/page.php:24
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/content-single.php:104
+msgid "Pages:"
+msgstr "Strony:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/footer.php:104
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-8.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-10.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-9.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-11.php:68
+msgid "No Tweets to show"
+msgstr "Brak Tweets, aby pokazać"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/header.php:36
+#, php-format
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/content-single.php:73
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/timeline-content/content-audio.php:34
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:92
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:230
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/list.php:57
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:34
+msgid "Your browser does not support the audio element."
+msgstr "Twoja przeglądarka nie obsługuje elementu dźwięku."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/content-single.php:100
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-info.php:14
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:146
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:278
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/list.php:101
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-quote.php:64
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:77
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-gallery.php:84
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-video.php:79
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content.php:70
+msgid "No comments"
+msgstr "Brak komentarzy"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/content-single.php:100
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-info.php:14
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:146
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:278
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/list.php:101
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-quote.php:64
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:77
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-gallery.php:84
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-video.php:79
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content.php:70
+msgid "1 comment"
+msgstr "1 komentarz"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/content-single.php:100
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-info.php:14
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:146
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:278
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/list.php:101
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-quote.php:64
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:77
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-gallery.php:84
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-video.php:79
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content.php:70
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/template-portfolio-1-col.php:116
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/portfolio-single/single-basic.php:49
+msgid "Work by"
+msgstr "Realizacja"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-4.php:97
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-1.php:94
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-7.php:47
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-2.php:94
+msgid "Search here.."
+msgstr "Szukaj tutaj .."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-8.php:15
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-10.php:15
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-9.php:15
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/header-11.php:15
+msgid "Menu"
+msgstr "Menu"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/top.php:9
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:957
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Posts Tagged \"%s\""
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/top.php:23
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:958
+#, php-format
+msgid "Posts by %s"
+msgstr "Posts by %s"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/top.php:31
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:959
+msgid "404 Page Not Found"
+msgstr "404 Page Not Found"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/top.php:33
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:987
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1018
+msgid "Shop"
+msgstr "Shop"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:954
+msgid "Home"
+msgstr "Strona główna"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:955
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archive by Category \"%s\""
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:956
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Search Results for \"%s\" Query"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1257
+msgid "Login"
+msgstr "Login"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1262
+msgid "ITEMS(S)"
+msgstr "ITEMS(S)"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1266
+msgid "Cart is empty"
+msgstr "Koszyk jest pusty"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1311
+msgid "View Cart"
+msgstr "Zobacz koszyk"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1312
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:150
+msgid "Checkout"
+msgstr "Zamówienie"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1320
+msgid "Language"
+msgstr "Język"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1401
+msgid "RECENTLY VIEWED"
+msgstr "OSTATNIO OGLĄDANE"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1402
+msgid "Clear All"
+msgstr "Wyczyść wszystko"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/template-tags.php:1416
+msgid "Save for later"
+msgstr "Zapisz na później"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/Comment_Walker.class.php:57
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/tweaks.php:64
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/tweaks.php:173
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/tweaks.php:65
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/tweaks.php:174
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-author.php:15
+msgid "About Admin"
+msgstr "O adminie"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Widget.class.php:18
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:18
+msgid "Displays the most recent portfolio items."
+msgstr "Wyświetla najnowsze pozycje portfolia"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Widget.class.php:19
+msgid "Recent Works"
+msgstr "Najnowsze Realizacje"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Widget.class.php:115
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:83
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Latest_Posts_Widget.class.php:110
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:86
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:102
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:87
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:125
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Testimonials_Widget.class.php:109
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:60
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:123
+msgid "Title:"
+msgstr "﻿Tytuł:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Widget.class.php:118
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Latest_Posts_Widget.class.php:113
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:128
+msgid "Number of posts to show:"
+msgstr "Ilość wpisów do pokazania:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:18
+msgid "Shows choosen WordPress pages"
+msgstr "Pokazuje wybrane strony WordPress"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:19
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:25
+msgid "Side Navi"
+msgstr "Side Navi"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:85
+msgid "Sort by:"
+msgstr "Sortuj według:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:87
+msgid "Page title"
+msgstr "Tytuł strony"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:88
+msgid "Page order"
+msgstr "Kolejność stron"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:89
+msgid "Page ID"
+msgstr "ID strony"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:93
+msgid "Include:"
+msgstr "Zawiera"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Side_Navi_Widget.class.php:95
+msgid "Page IDs, separated by commas."
+msgstr "Page IDs, separated by commas"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Latest_Posts_Widget.class.php:18
+msgid "Displays the most latest posts."
+msgstr "Displays the most latest posts."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Latest_Posts_Widget.class.php:19
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Latest_Posts_Widget.class.php:52
+msgid "Latest Posts"
+msgstr "﻿Ostatnie posty"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:21
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:22
+msgid "Social Media Icons"
+msgstr "Social Media Icons"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:90
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:95
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:99
+msgid "Skype:"
+msgstr "Skype:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:103
+msgid "Google+:"
+msgstr "Google+:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:107
+msgid "Vimeo:"
+msgstr "Vimeo:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:111
+msgid "Linkdin:"
+msgstr "Linkdin:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Social_Media_Widget.class.php:115
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:17
+msgid "Your site&#8217;s most recent comments."
+msgstr "Your site&#8217;s most recent comments."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:18
+msgid "Alternative Recent Comments"
+msgstr "Alternative Recent Comments"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:49
+msgid "Recent Comments"
+msgstr "Ostatnie komentarze"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:72
+msgid "on"
+msgstr " "
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Comments_Widget.class.php:105
+msgid "Number of comments to show:"
+msgstr "Liczba komentarzy do pokazania:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:17
+msgid "Title with button widget"
+msgstr "Title with button widget"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:18
+msgid "Call To Action"
+msgstr "Call To Action"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:90
+msgid "Line 1:"
+msgstr "Line 1:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:93
+msgid "Line 2:"
+msgstr "Line 2:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:96
+msgid "Button text:"
+msgstr "Button text:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:99
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Call_To_Action_Widget.class.php:102
+msgid "URL:"
+msgstr "URL:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:18
+msgid "Displays tabs with most popular posts, recent posts and comments"
+msgstr "Displays tabs with most popular posts, recent posts and comments"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:19
+msgid "Multi Posts"
+msgstr "Multi Posts"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:58
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:26
+msgid "Popular"
+msgstr "Popular"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:59
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:27
+msgid "Recent"
+msgstr "Recent"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:79
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:107
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:136
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:46
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:73
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/multi_posts.php:102
+msgid "BY"
+msgstr "PRZEZ"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Multi_Posts_Widget.class.php:177
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:78
+msgid "No options here"
+msgstr "No options here"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:19
+msgid "Recent Works Slider"
+msgstr "Recent Works Slider"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Recent_Works_Slider_Widget.class.php:52
+msgid "Popular Posts"
+msgstr "Popularne wpisy"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Testimonials_Widget.class.php:17
+msgid "Displays testimonial by ID"
+msgstr "Displays testimonial by ID"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Testimonials_Widget.class.php:18
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Testimonials_Widget.class.php:112
+msgid "Testimonial ID:"
+msgstr "Testimonial ID:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:17
+msgid "Add an advanced custom menu to your sidebar."
+msgstr "Add an advanced custom menu to your sidebar."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:18
+msgid "Advanced Custom Menu"
+msgstr "Advanced Custom Menu"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:55
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "No menus have been created yet. <a href=\"%s\">Create some</a>."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Advanced_Custom_Menu_Widget.class.php:64
+msgid "Select Menu:"
+msgstr "Select Menu:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:18
+msgid "Displays contact info."
+msgstr "Wyświetla informacje kontaktowe."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:19
+msgid "Contact Info"
+msgstr "Dane Kontaktowe"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:62
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:126
+msgid "Address:"
+msgstr "Adres:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:67
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:129
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:72
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:132
+msgid "Fax:"
+msgstr "Fax:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:77
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:135
+msgid "Email:"
+msgstr "Adres e-mail:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Contact_Info_Widget.class.php:138
+msgid "Show social links"
+msgstr "Show social links"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:21
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:22
+msgid "Twitter + RSS"
+msgstr "Twitter + RSS"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:50
+msgid "Followers"
+msgstr "Followers"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:56
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/widgets/WP_Twitter_Counter.class.php:56
+msgid "to RSS Feed"
+msgstr "kanał RSS"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/timeline-content/content-quote.php:55
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/timeline-content/content-audio.php:60
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/timeline-content/content-video.php:67
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/timeline-content/content.php:65
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/recent_posts.php:78
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-quote.php:48
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:57
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-audio.php:59
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-gallery.php:68
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content-video.php:63
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/post-content/content.php:54
+msgid "Read more"
+msgstr "Czytaj więcej"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/shortcodes/form.php:24
+msgid "Send message"
+msgstr "Wyślij wiadomość"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/portfolio-single/single-basic.php:81
+msgid "Related Projects"
+msgstr "Powiązane projekty"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:157
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/alternate.php:289
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/inc/blog-types/list.php:110
+msgid "Learn more"
+msgstr "Dowiedz się wiecej"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:45
+msgid "There are no reviews yet."
+msgstr "Nie ma jeszcze żadnych opinii."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:58
+msgid "Add a review"
+msgstr "Dodaj recenzję"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:58
+msgid "Be the first to review"
+msgstr "Napisz pierwszą recenzję"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Zostaw odpowiedź dla  %s"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:63
+msgid "Name"
+msgstr "Imię"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:65
+msgid "Email"
+msgstr "E-mail"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:68
+msgid "Submit"
+msgstr "Wyślij"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr "Twoja ocena"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr "Kursy ..."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr "Świetnie"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr "Dobrze"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr "Średnia"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr "Nie tak źle"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr "Bardzo źle"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:84
+msgid "Your Review"
+msgstr "Twoja opinia"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Tylko zalogowani klienci, którzy nabyli ten produkt mogą zostawić komentarz."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/content-product.php:64
+msgid "Details"
+msgstr "Szczegóły"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/sale-flash.php:16
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/sale-flash.php:16
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/sale-flash.php:16
+msgid "Sale!"
+msgstr "Wyprzedaż!"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/meta.php:23
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/meta.php:23
+msgid "SKU:"
+msgstr "SKU:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/meta.php:23
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/meta.php:23
+msgid "N/A"
+msgstr "N/A"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/product-thumbnails.php:45
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/product-image.php:47
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/product-thumbnails.php:45
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/product-image.php:46
+msgid "Zoom"
+msgstr "Zoom"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/product-thumbnails.php:48
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/product-image.php:50
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/product-thumbnails.php:48
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/product-image.php:47
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/product-image.php:51
+msgid "Video"
+msgstr "Video"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/up-sells.php:40
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr "You may also like&hellip;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/review.php:26
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Ocena %d na 5"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/review.php:27
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/review.php:27
+msgid "out of 5"
+msgstr "na 5"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/review.php:34
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/review.php:43
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/review.php:43
+msgid "verified owner"
+msgstr "zweryfikowany właściciel"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/related.php:36
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/related.php:36
+msgid "Related Products"
+msgstr "Produkty powiązane"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/add-to-cart/variable.php:72
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/add-to-cart/variable.php:72
+msgid "Clear selection"
+msgstr "Wyczyść zaznaczenie"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product/add-to-cart/variable.php:102
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/single-product2/add-to-cart/variable.php:102
+msgid "This product is currently out of stock and unavailable."
+msgstr "This product is currently out of stock and unavailable."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-empty.php:17
+msgid "UNFORTUNATELY, YOUR SHOPPING BAG IS EMPTY"
+msgstr "UNFORTUNATELY, YOUR SHOPPING BAG IS EMPTY"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-empty.php:19
+msgid "Back to store"
+msgstr "Back to store"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:24
+msgid "Item"
+msgstr "Item"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:25
+msgid "Description"
+msgstr "Opis"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:26
+msgid "Product Code"
+msgstr "Product Code"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:27
+msgid "Unit Price"
+msgstr "Unit Price"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr "Quantity"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:29
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-totals.php:20
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:66
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:106
+msgid "Remove this item"
+msgstr "Remove this item"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr "Coupon"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:123
+msgid "Apply Coupon"
+msgstr "Apply Coupon"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:130
+msgid "Update Cart"
+msgstr "Update Cart"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart.php:148
+msgid "Continue Shopping"
+msgstr "Continue Shopping"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-totals.php:17
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-totals.php:72
+msgid "Order Total"
+msgstr "Order Total"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-totals.php:84
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " (taxes estimated for %s)"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr "Shipping and Handling"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr "Please use the shipping calculator to see available shipping methods."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Please fill in your details to see available shipping methods."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:72
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr "Shipping"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:23
+msgid "Estimate Shipping"
+msgstr "Estimate Shipping"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr "Select a country&hellip;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:46
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:52
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:64
+msgid "State / county"
+msgstr "State / county"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr "Select a state&hellip;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:73
+msgid "City"
+msgstr "Miasto"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:81
+msgid "Postcode / Zip"
+msgstr "Kod pocztowy"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/cart/shipping-calculator.php:86
+msgid "Update Totals"
+msgstr "Aktualizuj"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/result-count.php:28
+#, php-format
+msgid "Showing all %d results"
+msgstr "Wyświetlane są wszystkie wyniki% d"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:22
+msgid "Sort by"
+msgstr "Sort by"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:26
+msgid "Default sorting"
+msgstr "Default sorting"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:27
+msgid "Sort by popularity"
+msgstr "Sort by popularity"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:28
+msgid "Sort by average rating"
+msgstr "Sort by average rating"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:29
+msgid "Sort by newness"
+msgstr "Sort by newness"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:30
+msgid "Sort by price: low to high"
+msgstr "Sort by price: low to high"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:31
+msgid "Sort by price: high to low"
+msgstr "Sort by price: high to low"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:59
+msgid "Previous"
+msgstr "Previous"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:68
+#, php-format
+msgid "View Page %d of %d"
+msgstr "View Page %d of %d"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/loop/orderby.php:71
+msgid "Next"
+msgstr "Next"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:66
+msgid "Products tagged &ldquo;"
+msgstr "Products tagged &ldquo;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:94
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:192
+msgid "Search results for &ldquo;"
+msgstr "Search results for &ldquo;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:128
+#, php-format
+msgid "Back to %s"
+msgstr "Back to %s"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:150
+msgid "Error 404"
+msgstr "Error 404"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:196
+msgid "Posts tagged &ldquo;"
+msgstr "Posts tagged &ldquo;"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:201
+msgid "Author:"
+msgstr "Author:"
+
+#: /opt/lampp/htdocs/arenaofthemes/marine/wp-content/themes/marine/woocommerce/global/breadcrumb.php:206
+msgid "Page"
+msgstr "Page"
